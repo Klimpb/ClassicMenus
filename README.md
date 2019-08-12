@@ -1,4 +1,5 @@
 # ClassicMenus
+
 Removes modern additions to dropdown menus.
 
 ## Before
@@ -11,3 +12,12 @@ Removes modern additions to dropdown menus.
 
 ![after1](https://user-images.githubusercontent.com/9938017/62841524-77634480-bca9-11e9-88bc-51473c3b5b2c.JPG)
 ![after2](https://user-images.githubusercontent.com/9938017/62841550-da54db80-bca9-11e9-98f9-2765eec5a2a6.JPG)
+
+Affects:
+- Player frame
+- Target frame
+- Pet frame
+- Party frames
+- Raid frames
+- Friend list
+- Guild list

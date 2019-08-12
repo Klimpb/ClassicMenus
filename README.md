@@ -23,3 +23,6 @@ Affects:
 - Raid frames
 - Friend list
 - Guild list
+
+
+By Klimp

@@ -6,6 +6,7 @@ Removes modern additions to dropdown menus.
 
 ![before1](https://user-images.githubusercontent.com/9938017/62841522-6ca8af80-bca9-11e9-86f9-45f2bc94e933.JPG)
 ![before2](https://user-images.githubusercontent.com/9938017/62841547-cf01b000-bca9-11e9-9788-fbb11a17f16e.JPG)
+![before3](https://user-images.githubusercontent.com/9938017/62841900-8c41d700-bcad-11e9-8850-73047aaba25b.JPG)
 
 
 ##  After
